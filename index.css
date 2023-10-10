@@ -136,3 +136,24 @@ span{
 .e1{
     background-color: rgba(73, 9, 119, 0.856);
 }
+.b1{
+    margin-left: 50px;
+}
+.b2{
+    border-left: solid 2px rgba(128, 128, 128, 0.562);
+}
+.b3{
+    padding: 15px 20px;
+}
+.b4{
+    text-decoration: none;
+    color: white;
+    list-style: none;
+    /* margin-left: -15px; */
+}
+.b5{
+    padding-left: 63px;
+}
+.b6{
+    height: auto;
+}
